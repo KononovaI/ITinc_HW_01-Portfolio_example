@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import photoInga from "../../../assets/images/inga.jpg";
+import photo from "../../../assets/images/photo.png";
 import { FlexWrapper } from '../../../components/FlexWrapper';
 
 export const Main = () => {
@@ -11,7 +11,7 @@ export const Main = () => {
 					<MainSpan>I'm Inga Kononova.</MainSpan>
 					<MainTitle>A software developer</MainTitle>
 				</MainTextArea>
-				<Photo src={photoInga} alt="My photo" />
+				<Photo src={photo} alt="My photo" />
 			</FlexWrapper>
 		</StyledMain>
 	);
