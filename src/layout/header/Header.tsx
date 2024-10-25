@@ -23,4 +23,10 @@ const StyledHeader = styled.header`
 	background-color: #fff;
 	position: sticky;
 	top: 0;
+	/* font-family: "DM Sans", sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.3;
+	text-align: center;
+	color: #666; */
 `
