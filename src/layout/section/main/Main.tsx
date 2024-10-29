@@ -6,7 +6,7 @@ import abstraction from "../../../assets/images/Abstract.png";
 export const Main = () => {
 	return (
 		<StyledMain>
-			<FlexWrapper align={"center"} justify={"space-around"}>
+			<FlexWrapper>
 				<MainTextArea>
 					<MainSpan>Hi ,</MainSpan>
 					<MainSpan>May name is</MainSpan>
