@@ -28,9 +28,12 @@ export const About = () => {
 
 const StyledAbout = styled.div`
 	background-color: #e7dc43;
+	
 `
 const StyledAboutTextArea = styled.div`
-	
+	display: flex;
+	flex-direction: column;
+	align-items: auto;
 `
 
 const StyledAboutSubtitle = styled.h2`
